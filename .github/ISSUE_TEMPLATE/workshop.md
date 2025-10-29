@@ -21,11 +21,6 @@ Tu nombre y, si quieres, tus redes o GitHub:
 
 ---
 
-## 🗓️ Fecha tentativa
-Si tienes una idea aproximada de cuándo podría darse:
-
----
-
 ## 💬 Comentarios adicionales
 Cualquier otra información que quieras incluir:
 
