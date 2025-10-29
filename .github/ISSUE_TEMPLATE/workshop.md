@@ -1,13 +1,13 @@
 ---
-name: 💬 Propuesta de Charla o Taller
-about: Crea una propuesta de charla o taller para HelloSwift Perú
-title: "[Charla] "
-labels: ["charla", "taller"]
+name: 💬 Propuesta de Taller
+about: Crea una propuesta de taller para HelloSwift
+title: "[Workshop] "
+labels: ["workshop"]
 assignees: ""
 ---
 
 ## 🧑‍🏫 Título del tema
-Escribe el nombre de tu charla o taller:
+Escribe el nombre de tu taller:
 
 ---
 
