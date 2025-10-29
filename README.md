@@ -1,6 +1,6 @@
-# 📱 HelloSwift Perú – Seguimiento de Charlas y Talleres
+# 📱 HelloSwift– Seguimiento de Charlas y Talleres
 
-¡Bienvenido al repositorio de **HelloSwift Perú**! 🇵🇪  
+¡Bienvenido al repositorio de **HelloSwift**! 🇵🇪  
 Este espacio está dedicado a **registrar, proponer y dar seguimiento** a las charlas y talleres de nuestra comunidad.
 
 ## 🧩 ¿Para qué sirve este repositorio?
@@ -33,5 +33,5 @@ Nos reunimos virtual o presencialmente para aprender juntos y fortalecer la comu
 ---
 
 ✨ *Gracias por ser parte de esta iniciativa y ayudar a crecer la comunidad iOS en Perú.*  
-**#HelloSwiftPerú**
+**#HelloSwift**
 
